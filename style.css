@@ -1,0 +1,58 @@
+body {
+    padding: 0.4%;
+}
+
+h1 {
+  font-family:'Times New Roman', Times, serif;
+  font-size: 2em;
+  margin: 0 auto;
+  text-align: center;
+}
+
+p {
+  font-family: cursive;
+  font-weight: bold;
+}
+
+body {
+  background-color: cornsilk;
+  font-size: 20px;
+}
+
+.habilidades {
+  font-size: 15px;    
+}
+
+#habilict {
+  text-decoration: underline;
+}
+
+a {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+#imagem {     
+    top: 20px;
+    left: 10px;
+    background-color: coral;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+.ponto-flutuante {
+    float: right;
+    margin-right: 650px;
+    padding-top: 100px;
+    padding-left: 5px;
+}
+
+h5 {
+    margin: 0;
+}
+
+ul li:nth-child(odd){
+    background-color: coral;
+}
